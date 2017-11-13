@@ -1,0 +1,78 @@
+html{
+    height:100%;
+    background-image: url("stars.gif");
+    background-position: 30%, 20%;
+	color: rgb(255, 202, 0);
+	text-align: center;
+}
+
+
+li:hover{
+opacity: .6;
+}
+
+h1 {
+	font-family: "Courier New";
+	font-weight bolder;
+	text-align: center; 
+	font-size: 80px;
+	color: rgb(255, 202, 0);
+	linear-gradient(0deg, green, lightgreen 80%) no-repeat;
+}
+
+h2{
+	padding-top: 200px;
+font-family: courier new;
+text-align: center;
+	font-size: 30px;
+
+
+}
+
+h3 {
+	text-align: center;
+	font-family: courier new;
+	font-size: 40px;
+
+
+}
+
+ul {
+    max-width:100%;
+    margin:0 auto; /*center aligned*/
+    list-style:none;
+	text-align: center;
+    list-style-type: circle;
+
+}
+
+li {
+	background-image: url(https://www.createacake.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/t/starwars_a4_pattern_sheet.jpg);
+	border-radius: 10px;
+		padding-top: 40px;
+	padding-bottom: 40px;
+	width: 25%;
+	list-style-type: none;
+    display: inline;
+    float: left;
+    font-color: green;
+
+    }
+
+
+a {
+    display:block;
+    position: relative;
+    overflow: hidden;
+    font-family: verdana;
+    font-weight: lighter;
+    text-decoration: none;
+    color: blue;
+}
+
+p {
+	font-family: courier new;
+	text-align: center;
+font-weight: lighter;
+
+}
